@@ -1,3 +1,5 @@
+![Expanded Building List screenshot](mod/thumbnail.png)
+
 Expands the Buildings list on the State panel so more actions and information are available without opening the Building Details panel.
 
 *Mod written for Victoria 3 patch 1.9.8*
