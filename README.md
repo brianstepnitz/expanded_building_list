@@ -1,4 +1,4 @@
-![Expanded Building List screenshot](mod/thumbnail.png)
+![Expanded Building List screenshot](images/xbl.png)
 
 Expands the Buildings list on the State panel so more actions and information are available without opening the Building Details panel.
 
