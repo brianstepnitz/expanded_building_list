@@ -22,6 +22,10 @@ Expands the Buildings list on the State panel so more actions and information ar
 - Show other useful information: Mobilized Battallions, Trade Capacity, etc.
 - Autoexpand, Subsidize, Nationalize, and Privatize buttons all available on screen
 
+## Links
+
+- [View on GitHub](https://github.com/brianstepnitz/expanded_building_list)
+
 ## Acknowledgements
 
 - Originally inspired by [Essential UI](https://steamcommunity.com/sharedfiles/filedetails/?id=3019598652) by [6ap6apblckaAa](https://steamcommunity.com/id/6ap6apblckaAa)
