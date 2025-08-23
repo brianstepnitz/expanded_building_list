@@ -24,10 +24,14 @@ Expands the Buildings list on the State panel so more actions and information ar
 
 ## Links
 
-- [View on GitHub](https://github.com/brianstepnitz/expanded_building_list)
+- [View on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3554155131)
 
 ## Acknowledgements
 
 - Originally inspired by [Essential UI](https://steamcommunity.com/sharedfiles/filedetails/?id=3019598652) by [6ap6apblckaAa](https://steamcommunity.com/id/6ap6apblckaAa)
+ - Code for including the PM buttons
+ - Employment reason indicator icons
+ - Wage icon
+ - Just showing me where and how to muck around with the UI code to show what I wanted
 - The [modding information on the Victoria 3 Wiki](https://vic3.paradoxwikis.com/Modding)
 - Lots of information floating around [Victoria 3 Mod Co-Op discord](https://discord.gg/XJbqFbHdsM)
