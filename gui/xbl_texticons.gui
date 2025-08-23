@@ -1,0 +1,44 @@
+﻿texticon = {
+	icon = enlist
+	iconsize = {
+		texture = "gfx/interface/icons/decree/decree_enlistment_efforts.dds"
+		offset = { 0 35 }
+		fontsize = 140
+	}
+}
+
+texticon = {
+	icon = infra
+	iconsize = {
+		texture = "gfx/interface/icons/state_status_icons/state_infrastructure.dds"
+		offset = { 0 20 }
+		fontsize = 120
+	}
+}
+
+texticon = {
+	icon = subsidies
+	iconsize = {
+		texture = "gfx/interface/icons/building_icons/building_browser_filter_icons/filter_icons_subsidized.dds"
+		offset = { 0 35 }
+		fontsize = 100
+	}
+}
+
+texticon = {
+	icon = tax
+	iconsize = {
+		texture = "gfx/interface/icons/state_status_icons/state_tax_capacity.dds"
+		offset = { 0 20 }
+		fontsize = 120
+	}
+}
+
+texticon = {
+	icon = wage
+	iconsize = {
+		texture = "gfx/interface/icons/decree/decree_emergency_relief.dds"
+		offset = { 0 35 }
+		fontsize = 140
+	}
+}

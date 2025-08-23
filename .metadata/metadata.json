@@ -1,0 +1,14 @@
+{
+	"name": "Expanded Building List",
+	"id": "psyllogism.victoria3.expanded_building_list",
+	"version": "1.0.0",
+	"game_id": "victoria3",
+	"supported_game_version": "1.9.*",
+	"picture" : "thumbnail",
+	"short_description": "Expands the Buildings list on the State panel so more actions and information are available without opening the Building Details panel.",
+	"tags": ["Utilities","Economy And Buildings","Graphics"],
+	"relationships": [],
+	"game_custom_data": {
+		"multiplayer_synchronized": true
+	}
+}
