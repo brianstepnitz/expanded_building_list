@@ -333,11 +333,6 @@ types state_panel_types {
 				datacontext = "[StatesPanel.AccessBuilding('building_urban_center')]"
 			}
 
-			# buildings_list_item = {
-				# visible = "[GreaterThan_int32(Building.GetExpansionLevel, '(int32)0')]"
-				# datacontext = "[StatesPanel.AccessBuilding('building_trade_center')]"
-			# }
-
 			buildings_list_item = {
 				visible = "[GreaterThan_int32(Building.GetExpansionLevel, '(int32)0')]"
 				datacontext = "[StatesPanel.AccessBuilding('building_manor_house')]"
@@ -588,17 +583,9 @@ types state_panel_types {
 			direction = vertical
 			parentanchor = hcenter
 
-			# buildings_list_item = {
-				# datacontext = "[StatesPanel.AccessBuilding('building_barracks')]"
-			# }
-
 			buildings_list_item = {
 				datacontext = "[StatesPanel.AccessBuilding('building_conscription_center')]"
 			}
-
-			# buildings_list_item = {
-				# datacontext = "[StatesPanel.AccessBuilding('building_naval_base')]"
-			# }
 			
 			buildings_list = {
 				blockoverride "datamodel" {
