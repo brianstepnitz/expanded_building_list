@@ -2,7 +2,11 @@
 
 Expands the Buildings list on the State panel so more actions and information are available without opening the Building Details panel.
 
+## Compatibility
+
 *Mod written for Victoria 3 patch 1.9.8*
+
+Use my [Expanded State Buildings compatch](https://github.com/brianstepnitz/expanded_state_buildings_compatch) to also use the [Expanded Building Grid mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3278156786) or [Dense UI mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3378734097)!
 
 ## Modifications
 
@@ -27,6 +31,7 @@ Expands the Buildings list on the State panel so more actions and information ar
 ## Links
 
 - [View on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3554155131)
+- My [Expanded State Buildings compatch](https://github.com/brianstepnitz/expanded_state_buildings_compatch)
 
 ## Acknowledgements
 
